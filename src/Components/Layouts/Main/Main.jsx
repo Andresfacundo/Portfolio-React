@@ -21,10 +21,10 @@ export const Main = () => {
       <Titles style='box-h2' styleImg='imgTitle' content='PROYECTOS' />
       <Line style='line-main' />
       <div className='container-card'>
-        <Card style='box-card' styleImg='imgCard' src='src/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
-        <Card style='box-card' styleImg='imgCard' src='src/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
-        <Card style='box-card' styleImg='imgCard' src='src/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
-        <Card style='box-card' styleImg='imgCard' src='src/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
+        <Card style='box-card' styleImg='imgCard' src='public/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
+        <Card style='box-card' styleImg='imgCard' src='public/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
+        <Card style='box-card' styleImg='imgCard' src='public/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
+        <Card style='box-card' styleImg='imgCard' src='public/Images/React.svg' contentBox='contentP' href='' styleP='styleP' styleH='styleH' />
       </div>
       <Titles style='box-h2' styleImg='imgTitle' content='REFERENCIAS' />
       <Line style='line-main' />

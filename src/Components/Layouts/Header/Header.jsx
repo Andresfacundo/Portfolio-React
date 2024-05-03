@@ -9,12 +9,12 @@ import { Line } from '../../Ui/Line/Line';
 export const Header = () => {
   return (
     <header>
-        <Image src='src/images/salchicha.jpeg' style='Image' />
+        <Image src='public/images/salchicha.jpeg' style='Image' />
         <h1>Andres Facundo</h1>
         <Line style='Line'/>
         <Navbar/>
       
-        <Image src='src/images/Sena.png' style='img-sena'/>
+        <Image src='public/images/Sena.png' style='img-sena'/>
         <ul className='icons-ul'>
           <ItemNavbar style='icons' href='' content={<FaLinkedinIn />}/>
           <ItemNavbar style='icons' href='' content={<FaWhatsapp />}/>

@@ -8,10 +8,10 @@ export const Footer = () => {
   return (
     <footer>
       <div className='container-footer'>
-        <Experiences src='src/Images/Reactf.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
-        <Experiences src='src/Images/node.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
-        <Experiences src='src/Images/mongo.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
-        <Experiences src='src/Images/java.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
+        <Experiences src='public/Images/Reactf.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
+        <Experiences src='public/Images/node.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
+        <Experiences src='public/Images/mongo.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
+        <Experiences src='public/Images/java.png' style='stiloImg' styleLine='lineF' classP='classP' content='Bases' boxFooter='boxFooter'/>
       </div>
     </footer>
   )
