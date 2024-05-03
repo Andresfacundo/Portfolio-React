@@ -6,10 +6,10 @@ export const Navbar = () => {
   return (
     <nav>   
         <ul className='ul-nav'>
-            <ItemNavbar content='Perfil' style='list'/>
-            <ItemNavbar content='Proyectos' style='list' />
-            <ItemNavbar content='Referencias' style='list'/>
-            <ItemNavbar content='Experiencia' style='list'/>
+            <ItemNavbar content='Perfil' href='' style='list'/>
+            <ItemNavbar content='Proyectos' href='' style='list' />
+            <ItemNavbar content='Referencias' href='' style='list'/>
+            <ItemNavbar content='Experiencia' href='' style='list'/>
         </ul>
     </nav>
   )
